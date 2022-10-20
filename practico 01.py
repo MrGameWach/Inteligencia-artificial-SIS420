@@ -49,6 +49,7 @@ def accion3():
 def salir():
     print('Saliendo')
 
-
-if name == 'main':
-    menu_principal()
+def main():
+    print("Hello World!")
+    if  name  == "main":
+            menu_principal()
